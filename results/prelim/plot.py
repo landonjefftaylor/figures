@@ -31,7 +31,7 @@ plt.yticks(listOf_Yticks)
 listOf_Xticks = [4,8,12,16]
 plt.xticks(listOf_Xticks)
 
-plt.xlabel('Execution Time (s)', fontsize=14)
+plt.xlabel('Execution Time (s)', fontsize=18)
 
 plt.grid(color='gainsboro', axis='y')
 
