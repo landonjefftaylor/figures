@@ -1,0 +1,95 @@
+# Paris To-Do List
+
+- [ ] Fill out flight information before trip
+- [ ] Check into flight 24 hours before
+- [ ] Find out where to buy metro pass: https://www.ratp.fr/en/titres-et-tarifs/paris-visite-travel-pass
+- [ ] Mark map with hotel location
+- [ ] Make any desired sight-seeing bookings
+- [ ] Share emergency contact information with travel party & emergency contacts
+    - [ ] USA and France phone number
+    - [ ] Emergency contact phone number
+    - [ ] Travel dates and flight/hotel info
+- [ ] Install translator app
+- [ ] Figure out where to change currency (probably withdraw from ATM with debit card)
+
+# Paris Packing List
+
+- [ ] **Travel Gear**
+    - [ ] Carry-on backpack
+    - [ ] Drawstring day pack
+    - [ ] Suitcase
+    - [ ] Belt-loop passport wallet
+    - [ ] Entertainment
+        - [ ] Book
+        - [ ] Notebook & pens
+        - [ ] Tylenol PM
+        - [ ] Snacks & gum
+        - [ ] Empty water bottle
+        - [ ] Earplugs
+- [ ] **Documents**
+    - [ ] Identification
+        - [ ] Passport
+        - [ ] Driver's license
+        - [ ] Health insurance card
+        - [ ] Student ID
+    - [ ] Financial
+        - [ ] Credit card x2
+        - [ ] Debit card
+        - [ ] Cash
+    - [ ] Travel information
+        - [ ] Flight confirmation
+        - [ ] Hotel confirmation
+        - [ ] Conference confirmation
+    - [ ] Just in case
+        - [ ] Marked map & compass
+        - [ ] Important phrases in English & French
+        - [ ] Emergency contact info in English & French
+- [ ] **Electronics**
+    - [ ] Power & Charging
+        - [ ] Power adapter x2
+        - [ ] USB Type C x4
+        - [ ] Laptop charger
+    - [ ] Devices
+        - [ ] Laptop
+        - [ ] Cell phone
+        - [ ] Orange Sim card
+        - [ ] Headphones
+        - [ ] Slideshow clicker
+- [ ] **Toiletries**
+    - [ ] Medical kit
+        - [ ] Band-aids
+        - [ ] Alcohol wipes
+        - [ ] Tweezers
+        - [ ] Moleskin
+        - [ ] Medications
+            - [ ] Prescription medications in original packages
+            - [ ] Tylenol
+            - [ ] Loratadine (Claritin)
+            - [ ] Loperamide (Immodium)
+            - [ ] Ginger pills & candy
+            - [ ] Antacid
+            - [ ] Cold pills
+    - [ ] Hygiene
+        - [ ] Hand sanitizer
+        - [ ] Mini toilet paper roll
+        - [ ] Mini soap
+        - [ ] Mini shampoo
+        - [ ] Deodorant
+        - [ ] Nail clippers
+        - [ ] Lip balm
+        - [ ] Sunblock
+        - [ ] Razor
+        - [ ] Tide pen
+        - [ ] Back-up glasses
+        - [ ] Glasses case
+- [ ] **Clothes**
+    - [ ] Shirts x7 days
+    - [ ] Pants x7 days
+    - [ ] Socks x7 days
+    - [ ] Cold weather items
+        - [ ] Umbrella
+        - [ ] Backup shoes
+        - [ ] Backup socks
+        - [ ] Jacket
+        - [ ] Sweater
+        - [ ] Hat
