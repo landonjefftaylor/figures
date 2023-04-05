@@ -11,6 +11,8 @@
     - [ ] Travel dates and flight/hotel info
 - [ ] Install translator app
 - [ ] Figure out where to change currency (probably withdraw from ATM with debit card)
+    - [ ] Make list of ATMs at the airport: https://www.ally.com/bank/find-atms/#Paris%20Charles%20de%20Gaulle%20Airport
+- [ ] Figure out transit from airport to hotel to city center: https://goo.gl/maps/5QjRY2g3Z2LodbHA7
 
 # Paris Packing List
 
@@ -65,6 +67,7 @@
             - [ ] Prescription medications in original packages
             - [ ] Tylenol
             - [ ] Loratadine (Claritin)
+            - [ ] Diphenhydramine (Benadryl)
             - [ ] Loperamide (Immodium)
             - [ ] Ginger pills & candy
             - [ ] Antacid
